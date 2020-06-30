@@ -1,0 +1,6 @@
+.strikethrough {
+    text-decoration: line-through;
+    text-decoration-style: solid;
+    text-decoration-thickness: 10px;
+    color: #007bff;
+}
